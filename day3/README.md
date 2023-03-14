@@ -1,16 +1,25 @@
 # day3
 
-A new Flutter project.
+Application for popular songs lyrics
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### 1
 
-A few resources to get you started if this is your first Flutter project:
+![image](assets/1.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](assets/2.jpg)
+
+### 3
+
+![image](assets/3.jpg)
+
+### 4
+
+![image](assets/4.jpg)
+
+### 5
+
+![image](assets/5.jpg)

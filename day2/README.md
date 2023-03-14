@@ -8,10 +8,10 @@ A simple contacts app
 
 ![image](assets/3.jpg)
 
-### 1
+### 2
 
 ![image](assets/4.jpg)
 
-### 1
+### 3
 
 ![image](assets/5.jpg)
