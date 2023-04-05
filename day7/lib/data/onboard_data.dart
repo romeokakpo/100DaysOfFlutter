@@ -1,5 +1,5 @@
-import 'package:day7/models/onboard_model.dart';
-import 'package:day7/services/assets_services.dart';
+import 'package:day7/app/models/onboard_model.dart';
+import 'package:day7/app/services/assets_services.dart';
 
 final List<OnboardModel> onboardData = [
   OnboardModel(AssetsServices.onBoard1, "Create Your Task",

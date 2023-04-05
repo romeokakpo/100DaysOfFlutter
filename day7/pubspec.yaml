@@ -28,6 +28,11 @@ dependencies:
   smooth_page_indicator: ^1.0.1
   date_picker_timeline: ^1.2.3
   intl: ^0.17.0
+  get_storage: ^2.1.1
+  get:
+  google_fonts:
+  flutter_colorpicker:
+  sqflite:
 
 dev_dependencies:
   flutter_test:
